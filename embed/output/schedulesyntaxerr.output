@@ -1,0 +1,6 @@
+Please enter the filename for schedule:schedulesyntaxerr.dsl
+
+OOPS, we ran into an error.
+    error: unresolved reference: end
+  end at 15..30  
+  ^

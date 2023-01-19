@@ -1,0 +1,6 @@
+Please enter the filename for schedule:schedulelogicalerr.dsl
+
+OOPS, we ran into an error.
+    java.lang.RuntimeException: Meeting not set up properly:
+duplicate start time
+end time not set
